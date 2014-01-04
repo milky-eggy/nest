@@ -1,2 +1,2 @@
-./caches/configs/database.php
-./caches/configs/system.php
+/caches/configs
+/caches/configs/*.php
